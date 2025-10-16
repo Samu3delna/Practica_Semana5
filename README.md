@@ -15,3 +15,4 @@ Documentacion / DevOps: La tarea es hacer el README y los requerimientos a cargo
 
 - estructura del proyecto
 por redactar....
+ se espera la mejora
